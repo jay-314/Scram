@@ -1,6 +1,6 @@
 # Scram
 
-This is the official game demo of Scram including the remastered edition. Scram is a multiplayer PvP shooter that involves the player to play in one of 2 teams. Play as a "peasant" and use a variety of weapons to protect yourself, your goal is to call for evacuation, survive, and then escape to the rescue vehicle. The other team is the "mutated" which offers a variety of character mutants to play as. Stop the peasants from escaping to their destination. Scram is the original game format, and Scram Remastered is an upgraded game version with updated textures, sounds, and mechanics.
+This is the official game demo of Scram including the remastered edition. Scram is a multiplayer PvP shooter that involves the player to play in one of 2 teams. Play as a "peasant" and use a variety of weapons to protect yourself, your goal is to call for evacuation, survive, and then escape to the rescue vehicle. The other team is the "mutated" which offers a variety of character mutants to play as, your goal is to stop the peasants from escaping to their destination by eliminating them. Scram is the original game format, and Scram Remastered is an upgraded game version with updated textures, sounds, and mechanics.
 
 1. Video: Link Here
 2. Download Demo (Scram): Link Here
