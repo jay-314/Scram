@@ -9,6 +9,7 @@ This is the official game demo of Scram and the remastered edition. Scram is a m
 Download Instructions:
 1. Open Steam and install Cube Racer
 2. Download the executable and run
+3. Requires at least TWO players to start in multiplayer mode
 
 Tools Utilized:
 1. Unity, C#
