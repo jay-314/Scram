@@ -2,9 +2,9 @@
 
 This is the official game demo of Scram and the remastered edition. Scram is a multiplayer PvP shooter that involves the player to be in one of 2 teams. P
 
-Video: Link Hereeeeeeeeeeeeeeeeeee
-Download Demo (Scram): Link Hereeeeeeeeeeeeeeeeeee
-Download Demo (Remastered Edition): Link Hereeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+1. Video: Link Here
+2. Download Demo (Scram): Link Here
+3. Download Demo (Remastered Edition): Link Here
 
 Download Instructions:
 1. Open Steam and install Cube Racer
