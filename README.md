@@ -46,8 +46,6 @@
 - Blender
 
 ## Remastered Edition
-https://github.com/user-attachments/assets/4dbb876d-6436-43bc-8314-191c22106067
-
 <p align="center">
   <a href="https://github.com/user-attachments/assets/c88f5683-f1bb-47bf-8f53-f1d2cb29d28a"><img src="https://github.com/user-attachments/assets/c88f5683-f1bb-47bf-8f53-f1d2cb29d28a" width="45%"/></a>
   <a href="https://github.com/user-attachments/assets/caeedae1-d34f-48b5-bbed-16458c9c40f8"><img src="https://github.com/user-attachments/assets/caeedae1-d34f-48b5-bbed-16458c9c40f8" width="45%"/></a>
