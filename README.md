@@ -1,11 +1,11 @@
 # Scram: A Multiplayer PvP Shooter
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=Td4P8-xVd7A"><strong>▶Watch Video Demo</strong></a>
+  <a href="https://www.youtube.com/watch?v=ZZ6y3P8Cp5E"><strong>▶Watch Video Demo</strong></a>
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=Td4P8-xVd7A">
+  <a href="https://www.youtube.com/watch?v=ZZ6y3P8Cp5E">
     <img src="https://github.com/user-attachments/assets/7d8942a4-7338-4dc8-9dcb-7238e8f5eb41"
          alt="Scram 2 Gameplay Demo"
          width="500" />
