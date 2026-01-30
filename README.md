@@ -44,7 +44,7 @@
 
 ## Remastered Edition
 <p align="center">
-  <strong>Remastered edition is a side project with improved performance, graphics, and sound.</strong>
+  <strong>Remastered edition is a major update with improved performance, graphics, and sound.</strong>
 </p>
 <p align="center">
   <a href="https://github.com/user-attachments/assets/e744921d-7018-4ac7-ac8d-a30fce0545ed"><img src="https://github.com/user-attachments/assets/e744921d-7018-4ac7-ac8d-a30fce0545ed" width="45%"/></a>
