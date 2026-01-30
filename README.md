@@ -1,9 +1,7 @@
 # Scram: A Multiplayer PvP Shooter
-
 <p align="center">
   <a href="https://www.youtube.com/watch?v=ZZ6y3P8Cp5E"><strong>▶Watch Video Demo</strong></a>
 </p>
-
 <p align="center">
   <a href="https://www.youtube.com/watch?v=ZZ6y3P8Cp5E">
     <img src="https://github.com/user-attachments/assets/7d8942a4-7338-4dc8-9dcb-7238e8f5eb41"
@@ -11,8 +9,9 @@
          width="500" />
   </a>
 </p>
-
-**Scram is a fast-paced multiplayer PvP survival shooter where one team fights to escape while the other uses mutant abilities stop them.**
+<p align="center">
+  <strong>Scram is a fast-paced multiplayer PvP survival shooter where one team fights to escape while the other uses mutant abilities stop them.</strong>
+</p>
 
 ## Key Features
 - Asymmetric PvP with peasants vs mutants
@@ -32,17 +31,15 @@
 </p>
 
 ## My Role - Gamplay Designer/Engineer
-- Game Design and Balancing
-- Gameplay Programming
+- Gameplay Design and Programming
 - Multiplayer Networking
-- UI/UX Design and 3D Concept Art
-- QA Testing
-- Build & Release
+- UI/UX Design and 3D Concept
+- Soundtracks
+- QA Test, Build, and Release
 
 ## Tech Stack
-- Unity
-- C#
-- Photon Bolt Netcode
+- Unity, C#
+- Photon Bolt/Fusion Netcode
 - Blender
 
 ## Remastered Edition
