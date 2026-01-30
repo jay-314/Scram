@@ -26,8 +26,8 @@
   <a href="https://github.com/user-attachments/assets/30580ac7-cb9b-4c85-920d-c5a49a03b9ba"><img src="https://github.com/user-attachments/assets/30580ac7-cb9b-4c85-920d-c5a49a03b9ba" width="45%"/></a>
 </p>
 <p align="center">
-    <a href="https://github.com/user-attachments/assets/53d47753-849f-4a8d-b892-a4e80f50e4af"><img src="https://github.com/user-attachments/assets/53d47753-849f-4a8d-b892-a4e80f50e4af" width="45%"/></a>
-  <a href="https://github.com/user-attachments/assets/d132eef9-1431-48f2-90c7-2c885d155b6d"><img src="https://github.com/user-attachments/assets/d132eef9-1431-48f2-90c7-2c885d155b6d" width="45%"/></a>
+  <a href="https://github.com/user-attachments/assets/53d47753-849f-4a8d-b892-a4e80f50e4af"><img src="https://github.com/user-attachments/assets/53d47753-849f-4a8d-b892-a4e80f50e4af" width="45%"/></a>
+  <a href="https://github.com/user-attachments/assets/72012c6e-c6b2-497a-b555-bc76c15cb961"><img src="https://github.com/user-attachments/assets/72012c6e-c6b2-497a-b555-bc76c15cb961" width="45%"/></a>
 </p>
 
 ## My Role - Gamplay Designer/Engineer
