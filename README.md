@@ -23,8 +23,8 @@
 - Dedicated authoritative servers, client-side predicted, and lag compensated
 
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/dd6cc5f7-07a1-4dde-8f45-de103fdbfaf4"><img src="https://github.com/user-attachments/assets/dd6cc5f7-07a1-4dde-8f45-de103fdbfaf4" width="45%"/></a>
-  <a href="https://github.com/user-attachments/assets/b279d5b5-627d-4582-9f68-c26a2a1ef9e7"><img src="https://github.com/user-attachments/assets/b279d5b5-627d-4582-9f68-c26a2a1ef9e7" width="45%"/></a>
+  <a href="https://github.com/user-attachments/assets/98b9b0b7-b270-439b-91e7-178c4f599ce5"><img src="https://github.com/user-attachments/assets/98b9b0b7-b270-439b-91e7-178c4f599ce5" width="45%"/></a>
+  <a href="https://github.com/user-attachments/assets/53d47753-849f-4a8d-b892-a4e80f50e4af"><img src="https://github.com/user-attachments/assets/53d47753-849f-4a8d-b892-a4e80f50e4af" width="45%"/></a>
 </p>
 <p align="center">
   <a href="https://github.com/user-attachments/assets/d132eef9-1431-48f2-90c7-2c885d155b6d"><img src="https://github.com/user-attachments/assets/d132eef9-1431-48f2-90c7-2c885d155b6d" width="45%"/></a>
