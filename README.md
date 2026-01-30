@@ -47,15 +47,15 @@
 
 ## Remastered Edition
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/c2ea8607-fd1a-46a7-b0fb-4f04d317bd67"><img src="https://github.com/user-attachments/assets/c2ea8607-fd1a-46a7-b0fb-4f04d317bd67" width="45%"/></a>
+  <a href="https://github.com/user-attachments/assets/e744921d-7018-4ac7-ac8d-a30fce0545ed"><img src="https://github.com/user-attachments/assets/e744921d-7018-4ac7-ac8d-a30fce0545ed" width="45%"/></a>
   <a href="https://github.com/user-attachments/assets/caeedae1-d34f-48b5-bbed-16458c9c40f8"><img src="https://github.com/user-attachments/assets/caeedae1-d34f-48b5-bbed-16458c9c40f8" width="45%"/></a>
 </p>
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/8b4432b1-018d-489a-b95b-f83108e42e83"><img src="https://github.com/user-attachments/assets/8b4432b1-018d-489a-b95b-f83108e42e83" width="45%"/></a>
   <a href="https://github.com/user-attachments/assets/c88f5683-f1bb-47bf-8f53-f1d2cb29d28a"><img src="https://github.com/user-attachments/assets/c88f5683-f1bb-47bf-8f53-f1d2cb29d28a" width="45%"/></a>
+  <a href="https://github.com/user-attachments/assets/8b4432b1-018d-489a-b95b-f83108e42e83"><img src="https://github.com/user-attachments/assets/8b4432b1-018d-489a-b95b-f83108e42e83" width="45%"/></a>
 </p>
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/e744921d-7018-4ac7-ac8d-a30fce0545ed"><img src="https://github.com/user-attachments/assets/e744921d-7018-4ac7-ac8d-a30fce0545ed" width="45%"/></a>
+  <a href="https://github.com/user-attachments/assets/c2ea8607-fd1a-46a7-b0fb-4f04d317bd67"><img src="https://github.com/user-attachments/assets/c2ea8607-fd1a-46a7-b0fb-4f04d317bd67" width="45%"/></a>
   <a href="https://github.com/user-attachments/assets/78038272-a012-4453-9880-0e6362ce61f7"><img src="https://github.com/user-attachments/assets/78038272-a012-4453-9880-0e6362ce61f7" width="45%"/></a>
 </p>
 <p align="center">
