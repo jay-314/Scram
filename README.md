@@ -10,16 +10,15 @@
   </a>
 </p>
 <p align="center">
-  <strong>Scram is a fast-paced multiplayer PvP survival shooter where one team fights to escape while the other uses mutant abilities stop them.</strong>
+  <strong>Scram is the original multiplayer PvP shooter where I designed and engineered the core gameplay and networking architecture from prototype through release.</strong>
 </p>
 
 ## Key Features
-- Asymmetric PvP with peasants vs mutants
-- Evacuation survival gameplay loop
-- Various weapons and gadgets
-- Multiple mutant classes with distinct abilities
-- Designed, programmed, and shipped with small team
-- Dedicated authoritative servers, client-side predicted, and lag compensated
+- Architected multiplayer using Photon Bolt with authoritative servers
+- Implemented client-side prediction, lag compensation, and state synchronization
+- Designed asymmetric PvP gameplay systems and combat flow
+- Integrated backend services for live configuration and testing
+- Built and maintained the project through full production and launch
 <p align="center">
   <a href="https://github.com/user-attachments/assets/98b9b0b7-b270-439b-91e7-178c4f599ce5"><img src="https://github.com/user-attachments/assets/98b9b0b7-b270-439b-91e7-178c4f599ce5" width="45%"/></a>
   <a href="https://github.com/user-attachments/assets/30580ac7-cb9b-4c85-920d-c5a49a03b9ba"><img src="https://github.com/user-attachments/assets/30580ac7-cb9b-4c85-920d-c5a49a03b9ba" width="45%"/></a>
@@ -37,14 +36,20 @@
 </p>
 
 ## My Role - Gamplay Designer/Engineer
-- Gameplay Design and Programming
-- Multiplayer Networking
-- UI/UX Design and 3D Concept
-- Soundtracks
-- QA Test, Build, and Release
+- Designed and engineered all core gameplay systems
+- Architected multiplayer networking and synchronization
+- Built UI/UX and 3D gameplay prototypes
+- Managed QA, builds, and release pipeline
+
+## Engineering
+- Handling latency in real-time competitive combat
+- Synchronizing physics and player state across clients
+- Designing gameplay systems that remain responsive under network conditions
+- Building scalable architecture to support live iteration and testing
 
 ## Tech Stack
 - Unity, C#
+- Steamworks, Digital Ocean, SQL
 - Photon Bolt/Fusion Netcode
 - Blender
 
