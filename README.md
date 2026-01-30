@@ -13,7 +13,7 @@
   <strong>Scram is the original multiplayer PvP shooter where I designed and engineered the core gameplay and networking architecture from prototype through release.</strong>
 </p>
 
-## Key Features
+## What I Made
 - Architected multiplayer using Photon Bolt with authoritative servers
 - Implemented client-side prediction, lag compensation, and state synchronization
 - Designed asymmetric PvP gameplay systems and combat flow
@@ -50,7 +50,7 @@
 ## Tech Stack
 - Unity, C#
 - Steamworks, Digital Ocean, SQL
-- Photon Bolt/Fusion Netcode
+- Photon Bolt Netcode
 - Blender
 
 ## Remastered Edition
