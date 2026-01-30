@@ -13,7 +13,7 @@
   <strong>Scram is the original multiplayer PvP shooter where I designed and engineered the core gameplay and networking architecture from prototype through release.</strong>
 </p>
 
-## My Creation
+## Creative Points
 - Architected multiplayer using Photon Bolt with authoritative servers
 - Implemented client-side prediction, lag compensation, and state synchronization
 - Designed asymmetric PvP gameplay systems and combat flow
@@ -35,17 +35,17 @@
   <img src="https://github.com/user-attachments/assets/d4afa750-696b-4515-b95b-75799c8e11e0" width="400"/>
 </p>
 
-## My Role - Gamplay Designer/Engineer
-- Designed and engineered all core gameplay systems
-- Architected multiplayer networking and synchronization
-- Built UI/UX and 3D gameplay prototypes
-- Managed QA, builds, and release pipeline
-
 ## Engineering
 - Handling latency in real-time competitive combat
 - Synchronizing physics and player state across clients
 - Designing gameplay systems that remain responsive under network conditions
 - Building scalable architecture to support live iteration and testing
+
+## My Role - Gamplay Designer/Engineer
+- Designed and engineered all core gameplay systems
+- Architected multiplayer networking and synchronization
+- Built UI/UX and 3D gameplay prototypes
+- Managed QA, builds, and release pipeline
 
 ## Tech Stack
 - Unity, C#
