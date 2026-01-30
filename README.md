@@ -20,7 +20,6 @@
 - Multiple mutant classes with distinct abilities
 - Designed, programmed, and shipped with small team
 - Dedicated authoritative servers, client-side predicted, and lag compensated
-
 <p align="center">
   <a href="https://github.com/user-attachments/assets/98b9b0b7-b270-439b-91e7-178c4f599ce5"><img src="https://github.com/user-attachments/assets/98b9b0b7-b270-439b-91e7-178c4f599ce5" width="45%"/></a>
   <a href="https://github.com/user-attachments/assets/30580ac7-cb9b-4c85-920d-c5a49a03b9ba"><img src="https://github.com/user-attachments/assets/30580ac7-cb9b-4c85-920d-c5a49a03b9ba" width="45%"/></a>
