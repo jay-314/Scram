@@ -49,7 +49,7 @@
 
 ## Tech Stack
 - Unity, C#
-- Steamworks, Digital Ocean, SQL
+- Steamworks, Digital Ocean, AWS, SQL
 - Photon Bolt Netcode
 - Blender
 
