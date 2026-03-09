@@ -13,7 +13,7 @@
   <strong>Scram is the original multiplayer PvP shooter where I designed and engineered the core gameplay, UI, visuals, and networking architecture from prototype through release.</strong>
 </p>
 
-## Creative Points
+## Key Points
 - Architected multiplayer using Photon Bolt with authoritative servers
 - Designed asymmetric PvP gameplay systems and combat flow
 - Created gameplay loops and frontend architecture
