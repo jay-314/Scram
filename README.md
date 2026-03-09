@@ -15,10 +15,10 @@
 
 ## Creative Points
 - Architected multiplayer using Photon Bolt with authoritative servers
-- Designed gameplay loops and frontend architecture.
-- Crafted UI, UX, and levels.
-- Implemented client-side prediction, lag compensation, and state synchronization
 - Designed asymmetric PvP gameplay systems and combat flow
+- Created gameplay loops and frontend architecture
+- Crafted UI, UX, and levels
+- Implemented client-side prediction, lag compensation, and state synchronization
 - Integrated backend services for live configuration and testing
 - Built and maintained the project through full production and launch
 <p align="center">
@@ -51,7 +51,7 @@
 
 ## Tech Stack
 - Unity, C#
-- Steamworks, Digital Ocean, AWS, SQL
+- Steamworks API, AWS EC2, Digital Ocean VPS, SQL
 - Photon Bolt Netcode
 - Blender
 
