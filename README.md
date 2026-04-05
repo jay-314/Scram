@@ -46,16 +46,16 @@
 
 ## Key Challenges and Solutions
 **Hit Registration Under Latency**
-Issue: Inconsistent hit detection at 200ms+ ping
-Solution: Implemented lag compensation with server-side rewind
+- Issue: Inconsistent hit detection at 200ms+ ping
+- Solution: Implemented lag compensation with server-side rewind
 
 **Movement Responsiveness**
-Issue: Input delay from server authority
-Solution: Client prediction + reconciliation implementation
+- Issue: Input delay from server authority
+- Solution: Client prediction + reconciliation implementation
 
 **Cheating Prevention**
-Issue: Players can cheat by modifying code
-Solution: Handle core game data through server and replicate to clients
+- Issue: Players can cheat by modifying code
+- Solution: Handle core game data through server and replicate to clients
 
 ## Scale
 - 1M+ downloads on Steam
