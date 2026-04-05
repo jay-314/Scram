@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-Scram is a multiplayer PvP FPS built in Unity using Photon Bolt, supporting up to 40 players per match.
+Scram is a multiplayer PvP FPS built in Unity using Photon Bolt, supporting up to 40 players per match across 5 different regions.
 I led development from early prototype to release, focusing on gameplay systems, networking, and overall architecture.
 </p>
 
