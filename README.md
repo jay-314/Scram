@@ -13,14 +13,6 @@
   <strong>Scram is the original multiplayer PvP shooter where I designed and engineered the core gameplay, UI, visuals, and networking architecture from prototype through release.</strong>
 </p>
 
-## Key Points
-- Architected multiplayer using Photon Bolt with authoritative servers
-- Designed asymmetric PvP gameplay systems and combat flow
-- Created gameplay loops and frontend architecture
-- Crafted UI, UX, and levels
-- Implemented client-side prediction, lag compensation, and state synchronization
-- Integrated backend services for live configuration and testing
-- Built and maintained the project through full production and launch
 <p align="center">
   <a href="https://github.com/user-attachments/assets/98b9b0b7-b270-439b-91e7-178c4f599ce5"><img src="https://github.com/user-attachments/assets/98b9b0b7-b270-439b-91e7-178c4f599ce5" width="45%"/></a>
   <a href="https://github.com/user-attachments/assets/30580ac7-cb9b-4c85-920d-c5a49a03b9ba"><img src="https://github.com/user-attachments/assets/30580ac7-cb9b-4c85-920d-c5a49a03b9ba" width="45%"/></a>
@@ -37,23 +29,18 @@
   <img src="https://github.com/user-attachments/assets/d4afa750-696b-4515-b95b-75799c8e11e0" width="400"/>
 </p>
 
-## Engineering
-- Handling latency in real-time competitive combat
-- Synchronizing physics and player state across clients
-- Designing gameplay systems that remain responsive under network conditions
-- Building scalable architecture to support live iteration and testing
+## Summary
+- Built and shipped a 40-player real-time PvP FPS on Steam (1M+ downloads, ~300 CCU)
+- Designed server-authoritative networking with client prediction and lag compensation to maintain responsive gameplay under 200–300ms latency
+- Architected modular gameplay systems supporting 50+ mechanics without network desync
+- Implemented matchmaking and session infrastructure using Photon + VPS across 5 regions
+- Led playtesting cycles with designers, using player feedback to refine combat feel and fix hit registration issues
 
-## My Role - Gamplay Designer/Engineer
-- Designed and engineered all core gameplay systems
-- Architected multiplayer networking and synchronization
-- Built UI/UX and 3D gameplay prototypes
-- Managed QA, builds, and release pipeline
-
-## Tech Stack
-- Unity, C#
-- Steamworks API, AWS EC2, Digital Ocean VPS, SQL
-- Photon Bolt Netcode
-- Blender
+## Multiplayer System Breakdown
+- Server-authoritative model with client-side prediction to reduce perceived latency
+- Reconciliation system to correct divergence without disrupting player control
+- Lag compensation for hit detection using historical state rewind
+- Optimized network payloads to support 40 concurrent players
 
 ## Remastered Edition
 <p align="center">
