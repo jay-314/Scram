@@ -30,15 +30,35 @@
   <img src="https://github.com/user-attachments/assets/cd206fc0-2a50-4841-9a85-e766eea5b664" width="400"/>
 </p>
 
-## Summary
-- Built and shipped a 40-player real-time PvP FPS on Steam (1M+ downloads, ~300 CCU)
-- Designed server-authoritative networking with client prediction and lag compensation to maintain responsive gameplay under 200–300ms latency
-- Architected modular gameplay systems supporting 50+ mechanics without network desync
-- Implemented matchmaking and session infrastructure using Photon + VPS across 5 regions
-- Led playtesting cycles with designers, using player feedback to refine combat feel and fix hit registration issues
+## My Role
+- Designed and implemented modular gameplay systems
+- Built multiplayer networking architecture
+- Developed combat, movement, and player abilities
+- Implemented matchmaking and session control
+- Led playtesting and gameplay iteration
 
-## Multiplayer System Breakdown
-- Server-authoritative model with client-side prediction to reduce perceived latency
-- Reconciliation system to correct divergence without disrupting player control
-- Lag compensation for hit detection using historical state rewind
-- Optimized network payloads to support 40 concurrent players
+## Technical Breakdown
+- Server-authoritative networking model to prevent cheating
+- Client prediction for immediate player responsiveness
+- State reconciliation to correct divergence without disrupting player control
+- Lag compensation using historical state rewind for accurate hit detection
+- Optimized network traffic to support 40-player game sessions and 300 CCU
+
+## Key Challenges and Solutions
+**Hit Registration Under Latency**
+Issue: Inconsistent hit detection at 200ms+ ping
+Solution: Implemented lag compensation with server-side rewind
+
+**Movement Responsiveness**
+Issue: Input delay from server authority
+Solution: Client prediction + reconciliation implementation
+
+**Cheating Prevention**
+Issue: Players can cheat by modifying code
+Solution: Handle core game data through server and replicate to clients
+
+## Scale
+- 1M+ downloads on Steam
+- 300 concurrent players
+- 40-player real-time game sessions
+- Deployed across 5 regions
