@@ -10,7 +10,7 @@
   </a>
 </p>
 <p align="center">
-  <strong>Scram is the original multiplayer PvP shooter where I designed and engineered the core gameplay, UI, visuals, and networking architecture from prototype through release.</strong>
+  <strong>A fast-paced multiplayer FPS focused on responsive combat and movement under real-world latency conditions.</strong>
 </p>
 
 <p align="center">
