@@ -9,12 +9,17 @@
          width="500" />
   </a>
 </p>
+
+
 <p align="center">
+
   
 Scram is a multiplayer PvP FPS built in Unity using Photon Bolt, supporting up to 40 players per match.
 I led development from early prototype to release, focusing on gameplay systems, networking, and overall architecture.
 
+
 </p>
+
 
 <p align="center">
   <a href="https://github.com/user-attachments/assets/98b9b0b7-b270-439b-91e7-178c4f599ce5"><img src="https://github.com/user-attachments/assets/98b9b0b7-b270-439b-91e7-178c4f599ce5" width="45%"/></a>
